@@ -1,0 +1,48 @@
+.navigator-row{
+  border: 1px solid #dee2e6;
+  cursor: pointer;
+  overflow: hidden;
+  white-space: nowrap;
+}
+.note-date{
+  margin-right: 10px;
+}
+.note-content-preview{
+  font-weight: 200;
+}
+#noteSearch{
+  border-radius: 30px;
+}
+.toolbar{
+  border: 1px solid #dee2e6;
+  padding: 10px;
+  position:fixed;
+  top: 0;
+  width: 25%;
+  z-index: 2;
+  background-color: white;
+
+}
+.note-previews{
+  margin-top: 58.82px;
+}
+.note-editor{
+  position: fixed;
+  width: 73%;
+}
+.content-editor{
+  height: 83vh;
+}
+
+.clickable{
+  cursor: pointer;
+}
+
+
+
+
+
+
+
+
+
